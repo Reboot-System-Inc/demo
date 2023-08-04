@@ -1,0 +1,28 @@
+{
+    "@@locale": "es",
+    "counterAppBarTitle": "Contador",
+    "@counterAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+        "appTitle": "Essaly-Point of Sale",
+    "beGelled": "beGelled",
+    "app_name": "essaly_pos",
+    "language": "Language",
+    "english": "English",
+    "arabic": "Arabic",
+    "save": "Save",
+    "login": "Login",
+    "loginBelowText": "Press the login button for logged into the app",
+    "signup": "Sign Up",
+    "signupBelowText": "Press the signup button for create a new account",
+    "orSignupWith": "Or Signup With",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "password": "Password",
+    "phoneNumber": "Phone Number",
+    "profile": "Profile",
+    "logout": "Logout",
+    "home": "Home",
+    "welcomeHome": "Welcome Home {name}"
+}
