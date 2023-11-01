@@ -23,7 +23,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   flutter_screenutil: ^5.8.4
-  flutter_svg: ^0.23.0+1
+  flutter_svg: ^2.0.9
   font_awesome_flutter: ^10.5.0
   form_validator: ^2.1.1
   fpdart: ^1.0.0
